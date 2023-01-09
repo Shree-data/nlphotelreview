@@ -8,7 +8,7 @@ Created on Sun Jan  8 21:00:22 2023
 import streamlit as st
 import spacy
 from textblob import TextBlob
-import en_core_web_sm
+#import en_core_web_sm
 #rom gensim.summarization import summarize
 
 #from sumy.parsers.plaintext import PlaintextParser
